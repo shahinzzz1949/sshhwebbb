@@ -1,0 +1,30 @@
+
+.circle,.circle1 {
+  width: 100px;
+  margin: 6px 6px 20px;
+  display: inline-block;
+  position: relative;
+  text-align: center;
+  line-height: 1.2;
+}
+.circle strong,.circle1 strong {
+  position: absolute;
+  top: 30px;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  line-height: 40px;
+  font-size: 30px;
+}
+
+.circle span,.circle1 span {
+  display: block;
+  color: #2b949f;
+  margin-top: 12px;
+  letter-spacing: 1px;
+  font-size: 14px;
+  font-weight: normal;
+}
+
+
+
